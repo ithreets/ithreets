@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Isiah 👋
 
-<!--
-**ithreets/ithreets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a career switcher from criminal justice to software engineering, currently building my foundations in computer science. I completed [Harvard’s CS50](https://cs50.harvard.edu/) and am now taking core CS courses through UC Berkeley Extension.
 
-Here are some ideas to get you started:
+## 🔭 Projects I'm working on
+- A fantasy football assistant tool (CS50 final project)
+- Practice repos from CS50 (C, Python, SQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Data Structures and Algorithms
+- Computer Architecture
+- Web development (HTML/CSS/JavaScript)
+
+## 📫 How to reach me
+- LinkedIn: www.linkedin.com/in/isiah-threets-83b6b3248
+- Email: Itthreets@westliberty.edu
